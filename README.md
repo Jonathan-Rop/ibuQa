@@ -1,20 +1,10 @@
 # ibuQa
 
-### Case study for logs with a background source of ibuqa
-### Apache airflow, Kafka and API in use
-
-
-# KWS-Dashboard<img width="901" height="429" alt="ETL" src="https://github.com/user-attachments/assets/d0e74051-b25b-48ec-86b3-e3729052abd5" />
-
 <a name="readme-top"></a>
 
-# <div align="center">ECOBANA</div>
+# <div align="center">IBUQA</div>
 
-A case study for visitors (both foreign and local) visiting the Kenyan Tourism sector - Revamp Ongoing
 
-With the rising numbers of tourism in Kenya, The Kenya wildlife service (KWS) has been recording an influx of visitors coming to see Kenya’s wildlife.
-Upon research and study on this information, I learnt that KWS has been receiving guests from an existing system (kwspay.ectizen.go.ke) but data has been always been extracted (for information/Metrics reasons) in a csv format.
-My idea of this problem statement is to automate some of these processes and improve on their data reporting and better handling to help the marketing department analyze data and improve more on their marketing stats to different countries selling Kenya’s tourism pride abroad
 
 
 In this Project, I have sourced files from an open source data  (KWS), perfomed ETL processes using pyspark and visualization using Grafana:
