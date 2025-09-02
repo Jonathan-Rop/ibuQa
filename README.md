@@ -4,9 +4,6 @@
 
 
 
-
-In this Project, I have sourced files from an open source data  (KWS), perfomed ETL processes using pyspark and visualization using Grafana:
-
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
